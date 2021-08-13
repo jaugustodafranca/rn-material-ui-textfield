@@ -11,7 +11,7 @@
 
 [![npm][npm-badge]][npm-url] [![npm downloads][npm-downloads-badge]][npm-url] [![license][license-badge]][license-url]
 
-Material UI texfield with consistent behaviour on iOS and Android
+Material UI texfield with consistent behavior on iOS and Android
 
 ![example][example-url]
 
